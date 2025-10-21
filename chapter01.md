@@ -1,0 +1,4 @@
+## Chapter 1
+- Git, was created by Linus Torvalds in the year 2005. Linus Torvalds was able to develop a working Git, 10 days after the start of his project in April.
+- Git was designed to solve the problem of managing source code and collaborating with others during software development projects. Git addresses issues with existing version control systems like BitKeeper which was used by Linux kernel development team.
+- Git's core essence is a distributed version control system that allows users to make changes to their codes while keeping old versions of their codes intact. It allows users to track progress, collaborate with each other and preserve history of all changes. Git provides a powerful tool for software development, enabling developers to work on the same project simultaneously.
